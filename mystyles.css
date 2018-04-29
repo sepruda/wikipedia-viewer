@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+
 body {
-  font-family: ;
+  font-family:'Playfair Display', serif;;
   color: #fff;
   background-color: #336699;
   padding-top: 2em;
@@ -15,4 +17,10 @@ a:hover {
 }
 a:visited {
     text-decoration: none;
+}
+card {
+
+}
+#btn {
+    width: 5em;
 }
