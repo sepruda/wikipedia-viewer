@@ -18,8 +18,8 @@ a:hover {
 a:visited {
     text-decoration: none;
 }
-card {
-
+.card:hover{
+	background-color: #e6e6e6!important;
 }
 #btn {
     width: 5em;
